@@ -1,0 +1,159 @@
+/* HEADER HEADER HEADER HEADER HEADER HEADER  */
+
+.nav__container
+{
+    background-color: #606060;
+    height: 100%;
+}
+.nav__container-images
+{
+    padding: 3rem;
+}
+.nav__item-images
+{
+    width: 13rem;
+    height: 13rem;
+    background-color: #9fbe6c;
+    margin: 0;
+}
+.nav__container-text
+{
+    padding: 4rem;
+}
+.nav__item-title
+{
+    height: 2.5rem;
+    width: 40%;
+    background-color: #FFF;
+}
+.nav__item-text
+{
+    height: 1rem;
+    width: 60%;
+    margin-top: 1.5rem;
+    background-color: #404040;
+}
+
+/* CONTENT CONTENT CONTENT CONTENT CONTENT  */
+
+.content
+{
+    padding: 2rem 0 0 0;
+}
+.content__images
+{
+    width: 90%;
+
+}
+.content__item-images
+{
+    width: 100%;
+    height: 30rem;
+    background-color: #505050;
+}
+.content__text
+{   
+    width: 90%;
+    padding: 0;
+    margin: 2rem 0;
+}
+.content__item-text
+{
+    width: 100%;
+    height: 1rem;
+    background-color: #505050;
+    margin: 1rem 0;
+}
+.content__item-text:nth-child(3)
+{
+    width: 70%;
+    height: 1rem;
+
+}
+.content__item-text:nth-child(4)
+{
+    width: 70%;
+}
+.content__list
+{   
+    width: 90% ;
+}
+.list
+{
+    width: 100%;
+    padding: 0;
+}
+
+.list__item
+{
+    width: 80%;
+}
+.list__container
+{
+    width: 80% ;
+    
+}
+.list__images
+{
+    height: 100%;
+    width: 100%;
+}
+
+.list__item-images
+{
+    width: 100%;
+    height: 9rem;
+    background-color: #505050;
+}
+.list__text
+{
+    width: 100%;
+    margin: 1.5rem 0;
+}
+.list__item-text
+{
+    background-color: #505050;
+    height: 1rem;
+    width: 100%;
+}
+.list__item-text:nth-child(3)
+{
+    width: 80%;
+    margin: auto;
+}
+
+/* ASIDE ASIDE ASIDE ASIDE ASIDE ASIDE ASIDE  */
+
+.aside
+{
+    background-color: #505050;
+    padding: 3rem 0 0 0;
+}
+.aside_item
+{
+    margin: 5rem auto;
+}
+.aside__images
+{
+    text-align: center;
+}
+.aside__item-images
+{
+    background-color: #9fbe6c;
+    width: 70%;
+    height: 8rem;
+    margin: auto;
+}
+.aside__item-title
+{
+    width: 90%;
+    height: 2rem;
+    background-color: #303030;
+}
+.aside__item-text
+{
+    width: 80%;
+    height: .8rem;
+    background-color: #303030;  
+    margin: 1.2rem 0;  
+}

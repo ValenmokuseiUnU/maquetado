@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+html body
+{
+    background-color: #2c2a2a;
+}
+.header__container
+{
+    background-color: #706c6c;
+    height: 100%;
+}

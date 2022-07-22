@@ -1,0 +1,25 @@
+.header__navegation
+{
+    height: 100%;
+    width: 100%;
+    background-color: #d8b2a1;
+}
+.nav__navegation
+{
+    height: 100%;
+    width: 100%;
+    padding: 1rem;
+    background-color: #706c6c;
+}
+.item__navegation
+{
+    height: 2rem;
+    margin: 0 1rem;
+    padding: .2rem;
+    background-color: #e7d8d1;
+    text-align: center;
+    text-decoration: none;
+    color: #000000;
+    font-weight: 900;
+    border-radius: .5rem;
+}
